@@ -49,8 +49,6 @@ public class Shop {
 		System.out.println("\nThank you for shopping with us! The total amount is " + totalAmount);
 		
 		reader.close();
-		
-		System.out.println("\nTesting... testing... 1, 2, 3...");
 	}
 	
 }
